@@ -1,0 +1,7 @@
+controller C code folder -- cntrlr2
+graphics C code-- graphicsmohem
+controller core is named adder_ip_core -> controller_ip was a prototype
+graphics core is named graphics_ip_core
+
+C code for full project present in: 
+lab5\graphicsmohem\hello_world_poj6\src
